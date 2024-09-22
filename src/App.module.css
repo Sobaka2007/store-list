@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    gap: 30px;
+    margin-top: 300px;
+    flex-wrap: wrap;
+    width: fit-content;
+    margin: 300px 100px ;
+}
